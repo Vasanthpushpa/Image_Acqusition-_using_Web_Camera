@@ -104,20 +104,23 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![WhatsApp Image 2024-09-24 at 11 51 43_b40b385b](https://github.com/user-attachments/assets/e3b5bab8-3867-47be-bcf1-05f4afc14b2e)
+
+![image](https://github.com/user-attachments/assets/13e3a07f-c6af-4a14-ade4-83b87116a564)
 
 
 
 ### ii) Display the video
-![WhatsApp Image 2024-09-24 at 11 51 43_b40b385b](https://github.com/user-attachments/assets/82f85d60-9e98-40d7-93ac-f5d071129c92)
+![image](https://github.com/user-attachments/assets/04590966-893f-4a7d-b3da-d9d360c0af01)
+
 
 
 ### iii) Display the video by resizing the window
-![WhatsApp Image 2024-09-24 at 11 52 30_42f653ad](https://github.com/user-attachments/assets/166f07a8-e61c-48ec-be50-d08f42078644)
+![image](https://github.com/user-attachments/assets/2fb8b182-0884-4727-b84d-e5494e30f206)
+
 
 
 ### iv) Rotate and display the video
-![WhatsApp Image 2024-09-24 at 11 52 51_6e901d17](https://github.com/user-attachments/assets/ad3edf1c-6038-4611-a1df-fcae9a807139)
+![image](https://github.com/user-attachments/assets/f6fa326d-fdf0-421f-9c89-5c204dc6a103)
 
 
 
